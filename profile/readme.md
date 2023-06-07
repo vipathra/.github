@@ -37,6 +37,7 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-  Vyayaka Logo in Blue | Vyayaka Logo in White
+  Vyayaka Logo in Blue (`#0056D6`) | Vyayaka Logo in White (`#FEFEFE`)
   :-------------------------:|:-------------------------:
-  ![Vipathra Logo in Blue](https://github.com/vipathra/.github/assets/68323012/da829271-4431-4d2d-abe9-f20fe6ad8c05) | ![Vipathra Logo in White](https://github.com/vipathra/.github/assets/68323012/da829271-4431-4d2d-abe9-f20fe6ad8c05)
+  ![Vipathra Logo in Blue](https://github.com/vipathra/.github/assets/68323012/a03154bb-8e67-482a-94de-85a3c980839c) | ![Vipathra Logo in White](https://github.com/vipathra/.github/assets/68323012/b142cbdc-414b-49ad-bf21-d84b064eb51a)
+
