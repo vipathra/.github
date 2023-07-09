@@ -41,7 +41,10 @@ Let's prove the income and expenses.
 
 #### Logo:
 
-Vyayaka Logo in Blue (`#0056D6`) | Vyayaka Logo in White (`#FEFEFE`)
+Vyayaka Logo in Blue `#0056D6` | Vyayaka Logo in White `#FEFEFE`
 :-------------------------:|:-------------------------:
 ![Vipathra Logo in Blue](https://github.com/vipathra/.github/assets/68323012/a03154bb-8e67-482a-94de-85a3c980839c) | ![Vipathra Logo in White](https://github.com/vipathra/.github/assets/68323012/b142cbdc-414b-49ad-bf21-d84b064eb51a)
 
+Vyayaka Logo with tagline in White `#FEFEFE` | Vyayaka Logo with tagline in Blue `#0056D6`
+:-------------------------:|:-------------------------:
+![Vipathra Logo with tagline in White](https://github.com/vipathra/.github/assets/68323012/5e76dda0-d511-4198-9dc2-3bf7621a1243) | ![Vipathra Logo with tagline in Blue](https://github.com/vipathra/.github/assets/68323012/f4b79e06-2e67-4db4-96c0-1fde37db1f7d)
