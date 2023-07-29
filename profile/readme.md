@@ -29,9 +29,7 @@ We kindly request that you review each of them before you start working on the r
 #### Social:
   - Website: https://www.vipathra.in
   - LinkedIn: https://www.linkedin.com/company/vipathra
-  - Twitter: https://www.twitter.com/vipathra_in
   - Mastodon: https://www.mastodon.social/@vipathra
-  - Koo: https://www.kooapp.com/profile/vipathra
 
 > Note: We are only on above mention social platforms, and is up to date every minute.
 
